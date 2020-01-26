@@ -1,1 +1,1 @@
-# pstat5Asummer18
+# PSTAT 5A - Summer '18
